@@ -1,0 +1,297 @@
+[
+        
+    {
+        "id":"1",
+        "désignation":"Samsung TV 32 LED" ,
+        "prix":"10900DH",
+        "categories":"HD",
+        "disponibilité":["tanger"],
+
+        
+        "fournisseur": {
+            "nom" : "Samsung Experience Store - Centre Ville",
+            "adersse":" Mag N° 73/75, AV Chakib Arsalan en face de la Mosquée Hassan 2, Centre Ville, 93000"
+          }
+  },
+  {
+    "id":"2",
+    "désignation":"Samsung TV  65-Inch Class Crystal" ,
+    "prix":"15900DH",
+    "categories":"4K",
+    "disponibilité":["tanger"],
+
+    
+    "fournisseur":{
+        "nom" :"Samsung Experience Store - Centre Ville" ,
+        "adersse":" Mag N° 73/75, AV Chakib Arsalan en face de la Mosquée Hassan 2, Centre Ville, 93000"
+
+    }
+},
+{
+    "id":"3",
+    "désignation":"Samsung TV  Inch Class QLED Q70A Series" ,
+    "prix":"20590DH",
+    "categories":"4K UHD",
+    "disponibilité":["tanger"],
+
+    
+    "fournisseur":{
+        "nom" :"Samsung Experience Store - Centre Ville" ,
+        "adersse":" Mag N° 73/75, AV Chakib Arsalan en face de la Mosquée Hassan 2, Centre Ville, 93000"
+
+    }
+},
+{
+    "id":"4",
+    "désignation":"Samsung 55-Inch Class Neo QLED QN85A Series" ,
+    "prix":"17900DH",
+    "categories":"4K UHD",
+    "disponibilité":["tanger"],
+
+    
+    "fournisseur":{
+        "nom" :"Samsung Experience Store - Centre Ville" ,
+        "adersse":" Mag N° 73/75, AV Chakib Arsalan en face de la Mosquée Hassan 2, Centre Ville, 93000"
+
+    }
+},
+{
+    "id":"5",
+    "désignation":"LG 55UP8000PUA Alexa Built-in 55" ,
+    "prix":"12900DH",
+    "categories":"4K UHD",
+    "disponibilité":["tanger"],
+
+    
+    "fournisseur":{
+        "nom" :"LG Electronics Tanger" ,
+        "adersse":" n°4, Av. Moulay Abdelhafid, Tanger 90000"
+
+    }
+},
+{
+    "id":"6",
+    "désignation":"LG OLED A1 Series 55”" ,
+    "prix":"16900DH",
+    "categories":"4K Smart TV",
+    "disponibilité":["tanger"],
+
+    
+    "fournisseur":{
+        "nom" :"LG Electronics Tanger" ,
+        "adersse":" n°4, Av. Moulay Abdelhafid, Tanger 90000"
+
+
+    }
+},
+{
+    "id":"7",
+    "désignation":"LG A1 65 inch 4K Smart OLED TV" ,
+    "prix":"9900DH",
+    "categories":"4K Smart TV",
+    "disponibilité":["tanger"],
+
+    
+    "fournisseur":{
+        "nom" :"Biougnach Tanger Socco Alto " ,
+        "adersse":" Socco Alto, Av. Banafsaj, Tangier  "
+
+
+    }
+},
+{
+    "id":"8",
+    "désignation":"LG QNED MiniLED TV 2021 | 75''" ,
+    "prix":"13900DH",
+    "categories":"4K Smart TV",
+    "disponibilité":["casablanca"],
+
+    
+    "fournisseur":{
+        "nom" :"HomeSolutions.ma " ,
+        "adersse":" 10, rue Azema et rue Ahmed Al Akrad Local N°5, Casablanca 20410 "
+
+
+    }
+},
+{
+    "id":"9",
+    "désignation":"LG A1 65 inch 4K Smart OLED TV" ,
+    "prix":"13900DH",
+    "categories":"4K Smart TV",
+    "disponibilité":["casablanca"],
+
+    
+    "fournisseur":{
+        "nom" :"HomeSolutions.ma " ,
+        "adersse":" 10, rue Azema et rue Ahmed Al Akrad Local N°5, Casablanca 20410 "
+
+
+    }
+},
+{
+    "id":"10",
+    "désignation":"Sony X85J 75 Inch TV:" ,
+    "prix":"13900DH",
+    "categories":"4K Ultra HD LED Smart4K Smart TV",
+    "disponibilité":["casablanca"],
+
+    
+    "fournisseur":{
+        "nom" :"HomeSolutions.ma " ,
+        "adersse":" 10, rue Azema et rue Ahmed Al Akrad Local N°5, Casablanca 20410 "
+
+
+    }
+},
+{
+    "id":"11",
+    "désignation":"Sony A90J 65 Inch TV" ,
+    "prix":"14590DH",
+    "categories":"BRAVIA XR OLED 4K Ultra HD Smart",
+    "disponibilité":["casablanca"],
+
+    
+    "fournisseur":{
+        "nom" :"HomeSolutions.ma " ,
+        "adersse":" 10, rue Azema et rue Ahmed Al Akrad Local N°5, Casablanca 20410 "
+
+
+    }
+},
+{
+    "id":"12",
+    "désignation":"Sony XR75X90J 75" ,
+    "prix":"15900DH",
+    "categories":"4K High Dynamic Range Bravia Smart TV",
+    "disponibilité":["casablanca"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, Electroménager, TV, Hifi, Multimédia" ,
+        "adersse":" Gelerie  Commerciale marjane derb sultan ,R315 casablanca "
+
+
+    }
+},
+{
+    "id":"13",
+    "désignation":"ELEXIA 40A5001" ,
+    "prix":"1999DH" ,
+    "categories":"FULL HD",
+    "disponibilité":["marrakech"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, marrakech" ,
+        "adersse":" Centre commercial Acima TARGA, Boulevard, Rte de Targa, marrakech"
+
+
+    }
+},
+{
+    "id":"14",
+    "désignation":"philips tv" ,
+    "prix":"4590DH" ,
+    "categories":"4K UHD LED ",
+    "disponibilité":["rabat"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, rabat" ,
+        "adersse":" Galerie Commercial Marjane Hay Riad Autoroute Rabat-Tanger, Rabat "
+
+
+    }
+},
+{
+    "id":"15",
+    "désignation":"Philips 50" ,
+    "prix":"3590DH" ,
+    "categories":"Class 4K Ultra HD ",
+    "disponibilité":["rabat"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, rabat" ,
+        "adersse":" Galerie Commercial Marjane Hay Riad Autoroute Rabat-Tanger, Rabat "
+
+
+    }
+},
+{
+    "id":"16",
+    "désignation":"Hisense 65" ,
+    "prix":"4590DH" ,
+    "categories":"Class 4K Ultra LCD  ",
+    "disponibilité":["rabat"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, rabat" ,
+        "adersse":" Galerie Commercial Marjane Hay Riad Autoroute Rabat-Tanger, Rabat "
+
+
+    }
+},
+{
+    "id":"17",
+    "désignation":"VIZIO 75" ,
+    "prix":"6590DH" ,
+    "categories":" Class V-Series 4K UHD LED ",
+    "disponibilité":["rabat"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, rabat" ,
+        "adersse":" Galerie Commercial Marjane Hay Riad Autoroute Rabat-Tanger, Rabat "
+
+
+    }
+},
+{
+    "id":"18",
+    "désignation":"VIZIO 75" ,
+    "prix":"8590DH" ,
+    "categories":" Class V-Series 4K UHD LED ",
+    "disponibilité":["rabat"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, rabat" ,
+        "adersse":" Galerie Commercial Marjane Hay Riad Autoroute Rabat-Tanger, Rabat "
+
+
+    }
+},
+{
+    "id":"19",
+    "désignation":"TCL 43EP660" ,
+    "prix":"7590DH" ,
+    "categories":" SMART TV  ",
+    "disponibilité":["Tétouan"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, Tétouan" ,
+        "adersse":" Parc d’activité Marjane Route DE Mdiq, Tétouan"
+
+
+    }
+},
+{
+    "id":"20",
+    "désignation":" TCL QLED 55C72" ,
+    "prix":"8990DH" ,
+    "categories":" SMART TV  ",
+    "disponibilité":["Tétouan"],
+
+    
+    "fournisseur":{
+        "nom" :"Electroplanet, Tétouan" ,
+        "adersse":" Parc d’activité Marjane Route DE Mdiq, Tétouan"
+
+
+    }
+}
+]
